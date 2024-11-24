@@ -1,0 +1,23 @@
+total 15
+
+ 1 pod1 
+ 2 pod2
+ 3 pod3
+ 4 pod4
+ 5 -
+ 6 OG1
+ 7 OG2
+ 8 OG3
+ 9 OG4
+ 10 OG5
+ 11 OG6
+ 12 OG7
+ 13 OG8
+ 14 OG9
+ 15 OG10
+ 16 imp1
+ 17 imp2
+ 18 -
+ 19 telSeg
+
+8 9 11 10 6
