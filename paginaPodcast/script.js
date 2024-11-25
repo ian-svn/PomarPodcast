@@ -12,5 +12,5 @@ function nextSlide() {
   showSlide();
 }
 
-setInterval(nextSlide, 3000); // Cambia cada 3 segundos
-showSlide(); // Mostrar la primera imagen al cargar
+setInterval(nextSlide, 3000);
+showSlide();
